@@ -3,3 +3,66 @@ body {
     margin: 0;
     font-family: 'Roboto Condensed', sans-serif;
 }
+h1, h2, h3, h4, h5, h6 {
+    color: #002f4e;
+}
+.custom-button-style {
+    background-color: darkslateblue;
+    color: floralwhite;
+    padding: 10px 20px;
+}
+.custom-button-style:hover {
+    color: darkturquoise;
+    background-color: #191246;
+}
+.header-section {
+    background-color: rgba(250, 246, 194, 0.5);
+    height: 100vh;
+}
+.header-section .navbar .nav-logo {
+    width: 292px;
+    height: auto;
+}
+.header-section .navbar-nav .nav-item .nav-link {
+    font-weight: 700;
+    padding: 10px 30px;
+}
+.intro-section .img-intro {
+    width: 100px;
+    height: 100px;
+    margin-right: 0;
+}
+.casual-backpack h2, 
+.travel-backpack h2,
+.extra-section h2 {
+ font-weight: 700;
+ padding: 50px 0;
+}
+.custom-card-style {
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 50px #e7e7e7;
+}
+.custom-card-style img {
+    border-radius: 10px;
+}
+.card-footer {
+    background-color: white;
+    border-top: none;
+}
+.card-footer .text-price {
+    font-size: 32px;
+    color: #02cab6;
+}
+.card-footer i {
+    padding-right: 10px;
+}
+.travel-backpack {
+    padding: 50px 0 100px 0;
+}
+.extra-section {
+    padding: 50px 0 100px 0;
+}
+            .extra-section input {
+    border: none;
+}

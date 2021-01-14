@@ -16,11 +16,11 @@ h1, h2, h3, h4, h5, h6 {
     background-color: #191246;
 }
 .header-section {
-    background-color: rgba(250, 246, 194, 0.5);
+    background-color: #fff9d8;
     height: 100vh;
 }
 .header-section .navbar .nav-logo {
-    width: 292px;
+    width: 350px;
     height: auto;
 }
 .header-section .navbar-nav .nav-item .nav-link {
@@ -52,7 +52,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .card-footer .text-price {
     font-size: 32px;
-    color: #02cab6;
+    color: #3cb371;
 }
 .card-footer i {
     padding-right: 10px;
@@ -63,6 +63,6 @@ h1, h2, h3, h4, h5, h6 {
 .extra-section {
     padding: 50px 0 100px 0;
 }
-            .extra-section input {
+.extra-section input {
     border: none;
 }
